@@ -1,17 +1,31 @@
 [
     {
-        "ticker": "1INCH",
-        "img": "https://tokens-data.1inch.io/images/0x111111111117dc0aa78b770fa6a738034120c302.png",
-        "name": "1INCH Token",
-        "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
-        "decimals": 18
-    },
-    {
         "ticker": "USDT",
         "img": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
         "name": "Tether USD",
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "decimals": 6
+    },
+    {
+        "ticker": "FRAX",
+        "img": "https://tokens-data.1inch.io/images/0x45c32fa6df82ead1e2ef74d17b76547eddfaff89.png",
+        "name": "Frax",
+        "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "decimals": 18
+    },
+    {
+        "ticker": "PGX",
+        "img": "https://tokens-data.1inch.io/images/0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae.png",
+        "name": "Pegaxy Stone",
+        "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
+        "decimals": 18
+    },
+    {
+        "ticker": "1INCH",
+        "img": "https://tokens-data.1inch.io/images/0x111111111117dc0aa78b770fa6a738034120c302.png",
+        "name": "1INCH Token",
+        "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+        "decimals": 18
     },
     {
         "ticker": "UNI",
