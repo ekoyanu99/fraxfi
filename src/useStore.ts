@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { useSelector, useDispatch } from "react-redux";
-import config from 'config.json';
+// import config from 'config.json';
 
 const langs: any = {
 	"en-US": require("lang/en-US.json")
@@ -13,7 +13,7 @@ const initialState: StoreObject = {
 
 const getStore = (initialState: StoreObject) => {
 	try {
-		const buf = window.localStorage.getItem(config.appKey);
+		const buf = window.localStorage.getItem("12neui0dsf0923rfdsjbsiv09sfr9r3");
 		if (buf) {
 			const json = JSON.parse(buf);
 			const state: any = initialState;
